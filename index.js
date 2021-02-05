@@ -18,19 +18,19 @@ const promptQuestions= [
     {
         type: "input",
         name: "description",
-        message: "What can you tell me about your application?"
+        message: "How would you describe your application?"
     },
 
     {
         type: "input",
         name: "installation",
-        message: "How would other people install this?",
+        message: "How would a user install this?",
     },
 
     {
         type: "input",
         name: "usage",
-        message: "What is this used for?",
+        message: "Usage?",
     },
 
     {
@@ -75,6 +75,13 @@ const promptQuestions= [
         name: "demo",
         message: "Input the url for your live demo",
     },
+
+    {
+        type: "input",
+        name: "email",
+        message: "What is your email address?",
+    },
+
 
 
 ];

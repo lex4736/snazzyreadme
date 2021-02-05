@@ -1,0 +1,51 @@
+
+  
+  # ***Snazzy Readme Generator***
+
+  
+## 🍀 Description of Project
+  #### An application that will autopopulate a snazzy readme file based on user input
+
+  ----
+## 🍀 Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributors](#contributors)
+  * [Tests](#tests)
+  * [Live Demo](#demo)
+  * [Questions](#email)
+  ----
+## 🍀 <a id="installation"></a> How to install 
+  Fork from lex4736 github profile into your own github profile. Then clone into your local drive. Open the application in visual studio code or simillar. Once you have the application open, input "npm i" on the terminal to install required dependencies/tools. Then input "node index.js" to start the application
+
+  ----
+## 🍀 <a id="usage"></a> What does it do 
+  for generating a custom readme file
+ 
+  ----
+## 🍀 <a id="license"></a> License
+![Badge](https://img.shields.io/badge/license-MIT.svg)
+
+----
+## 🍀 <a id="contributors"></a>Contributors 
+None
+
+---- 
+## 🍀 <a id="test"></a> How to test 
+npm test
+ 
+----
+## 🍀 <a id="demo"></a> Demo of Application
+[![](to be added)](to be added)
+
+  ----
+ ## 🍀 <a id="email"></a> Contact me for Questions 
+ **lex4736@gmail.com** 
+<br><br>
+## 🍀 Github Account
+**lex4736**
+<br>
+![Github Profile](https://avatars.githubusercontent.com/u/71117049?v=4) 
+
+
