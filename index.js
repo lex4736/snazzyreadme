@@ -86,11 +86,25 @@ function writeToFile(fileName, data) {
     fs.writeFileSync(path.join(process.cwd(), fileName), data)
     
     }
-    
-// function to initialize program
+
+// This function will initialize our program
 function init() {
+    inquirer.prompt(promptQuestions)
+        .then((answers) => {
+            const url = `https://api.github.com/users/${answers.userName}`
+            console.log(answers)
+            axios.get(url)
+                .then(function (response) {
+                  
+                  console.log(response.data);
+                   
+                    answers.photo = response.data.avatar_url;
+
+                    console.log("Now creating your custom README");
+                    writeToFile("README.md", generateMarkdown(answers));
+                })
+        });
 
 }
-
-// function call to initialize program
+// This is a function call to initialize program
 init();
