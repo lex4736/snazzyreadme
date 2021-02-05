@@ -79,10 +79,14 @@ const promptQuestions= [
 
 ];
 
-// function to write README file
+// Here you will find the function to write README file
 function writeToFile(fileName, data) {
-}
+ 
 
+    fs.writeFileSync(path.join(process.cwd(), fileName), data)
+    
+    }
+    
 // function to initialize program
 function init() {
 
