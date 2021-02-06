@@ -21,15 +21,15 @@
 
   ----
 ## 🍀 <a id="usage"></a> What does it do 
-  for generating a custom readme file
+  for generating custom readme files
  
   ----
 ## 🍀 <a id="license"></a> License
-![Badge](https://img.shields.io/badge/license-MIT.svg)
+![Badge](https://img.shields.io/badge/license-MIT-blue)
 
 ----
 ## 🍀 <a id="contributors"></a>Contributors 
-None
+My pug for moral support
 
 ---- 
 ## 🍀 <a id="test"></a> How to test 
@@ -37,7 +37,9 @@ npm test
  
 ----
 ## 🍀 <a id="demo"></a> Demo of Application
-[![](to be added)](to be added)
+[![](TBD)]
+<br>
+(TBD)
 
   ----
  ## 🍀 <a id="email"></a> Contact me for Questions 

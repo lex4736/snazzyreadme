@@ -27,7 +27,7 @@ function generateMarkdown(data) {
  
   ----
 ## 🍀 <a id="license"></a> License
-![Badge](https://img.shields.io/badge/license-${data.license})
+![Badge](https://img.shields.io/badge/license-${data.license}-blue)
 
 ----
 ## 🍀 <a id="contributors"></a>Contributors 
@@ -39,7 +39,9 @@ ${data.tests}
  
 ----
 ## 🍀 <a id="demo"></a> Demo of Application
-[![](${data.screenshot})](${data.demo})
+[![](${data.screenshot})]
+<br>
+(${data.demo})
 
   ----
  ## 🍀 <a id="email"></a> Contact me for Questions 
