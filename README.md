@@ -4,7 +4,7 @@
 
   
 ## 🍀 Description of Project
-  #### An application that will autopopulate a snazzy readme file based on user input
+  #### An npm inquirer powered application that will autopopulate a snazzy readme file based on user input
 
   ----
 ## 🍀 Table of Contents
@@ -39,7 +39,7 @@ npm test
 ## 🍀 <a id="demo"></a> Demo of Application
 
 <video width="480" height="320" controls="controls">
-  <source src="assets\2021-02-05_18-03-25.mp4" type="video/mp4">
+  <source src="https://github.com/lex4736/snazzyreadme/blob/master/assets/2021-02-05_18-03-25.mp4" type="video/mp4">
 </video>
 
   ----
