@@ -39,7 +39,7 @@ ${data.tests}
  
 ----
 ## 🍀 <a id="demo"></a> Demo of Application
-[![](${data.screenshot})]
+![](${data.screenshot})
 <br>
 (${data.demo})
 
