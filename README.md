@@ -37,7 +37,7 @@ npm test
  
 ----
 ## 🍀 <a id="demo"></a> Demo of Application
-![Demo](https://github.com/lex4736/snazzyreadme/blob/master/Demo/Demo.webm)
+![Demo](/Demo/Demo.webm)
 
   ----
  ## 🍀 <a id="email"></a> Contact me for Questions 
