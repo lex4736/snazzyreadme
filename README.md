@@ -17,11 +17,11 @@
   * [Questions](#email)
   ----
 ## 🍀 <a id="installation"></a> How to install 
-  Fork from lex4736 github profile into your own github profile. Then clone into your local drive. Open the application in visual studio code or simillar. Once you have the application open, input "npm i" on the terminal to install required dependencies/tools. Then input "node index.js" to start the application
+  Fork into repo and clone into local drive. Open folder in code editor such as visual studio code and input "npm i" under the terminal to install dependencies. Then "index.js" to intitiate
 
   ----
 ## 🍀 <a id="usage"></a> What does it do 
-  for generating custom readme files
+  To create custom readme files based on user input
  
   ----
 ## 🍀 <a id="license"></a> License
@@ -37,10 +37,7 @@ npm test
  
 ----
 ## 🍀 <a id="demo"></a> Demo of Application
-
-<video width="480" height="320" controls="controls">
-  <source src="https://github.com/lex4736/snazzyreadme/blob/master/assets/2021-02-05_18-03-25.mp4" type="video/mp4">
-</video>
+!(![](https://www.dropbox.com/s/f7psc5iy3fitqux/Demo.webm?dl=0))
 
   ----
  ## 🍀 <a id="email"></a> Contact me for Questions 
