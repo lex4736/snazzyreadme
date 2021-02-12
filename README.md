@@ -37,8 +37,7 @@ npm test
  
 ----
 ## 🍀 <a id="demo"></a> Demo of Application
-![](/Demo/Demo.webm)
-
+![Demo (1)](https://user-images.githubusercontent.com/71117049/107750354-c3dd7500-6cd0-11eb-8710-b5c47e959578.gif)
   ----
  ## 🍀 <a id="email"></a> Contact me for Questions 
  **lex4736@gmail.com** 
