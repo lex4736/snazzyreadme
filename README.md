@@ -17,7 +17,7 @@
   * [Questions](#email)
   ----
 ## 🍀 <a id="installation"></a> How to install 
-  Fork into repo and clone into local drive. Open folder in code editor such as visual studio code and input "npm i" under the terminal to install dependencies. Then "index.js" to intitiate
+  Fork into repo and clone into local drive. Open folder in code editor such as visual studio code and input "npm i" under the terminal to install dependencies. Then "node index.js" to intitiate
 
   ----
 ## 🍀 <a id="usage"></a> What does it do 
